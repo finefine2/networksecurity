@@ -1,0 +1,6 @@
+[ 2025-03-10 20:17:15,593 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-03-10 20:17:15,598 ] 107 dagshub - INFO - Accessing as ssmilet0
+[ 2025-03-10 20:17:15,859 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/ssmilet0/networksecurity "HTTP/1.1 200 OK"
+[ 2025-03-10 20:17:16,101 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-03-10 20:17:16,103 ] 107 dagshub - INFO - Initialized MLflow to track repo "ssmilet0/networksecurity"
+[ 2025-03-10 20:17:16,103 ] 107 dagshub - INFO - Repository ssmilet0/networksecurity initialized!
